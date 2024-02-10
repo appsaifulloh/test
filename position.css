@@ -1,0 +1,30 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.parent {
+    margin: auto;
+    padding: 20px;
+    background-color: lightblue;
+}
+
+.child {
+    padding: 20px;
+    color: white;
+    font-size: 1em;
+
+}
+
+.child-one {
+    background-color: green;
+    position: absolute;
+}
+
+.child-two {
+    background-color: orange;
+}
+
+.child-three {
+    background-color: pink;
+}
